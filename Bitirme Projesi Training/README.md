@@ -1,0 +1,28 @@
+Note that there should be a "Dataset" folder and image subfolders inside of it in order to project works.
+Dataset: 
+  Cereals
+  Chips
+  Chocolate
+  Coffee
+  Deodorant
+  Detergent
+  Flour
+  Honey
+  Juice
+  Ketchup
+  Mayonnaise
+  Milk
+  Oil
+  Olive
+  Pasta
+  Salt
+  Shampoo
+  Soap
+  Sugar
+  Tea
+  ToiletPaper
+  TomatoSauce
+  Toothbrush
+  ToothPaste
+  Vinegar
+  Water
